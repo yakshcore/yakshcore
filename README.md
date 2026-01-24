@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
 </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" />
-
 - 👨‍💻 All of my projects are available at [https://yakshdevani.vercel.app/](https://yakshdevani.vercel.app/)
 
 - 📝 Read my articles on [https://yakshdevani.framer.website/writing](https://yakshdevani.framer.website/writing)
