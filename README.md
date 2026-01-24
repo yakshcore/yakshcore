@@ -10,7 +10,7 @@
 
 - 💬 Feel free to ask me anything about **Fullstack and related technologies !**
 
-- 📫 How to reach me **yaksh9737@gmail.com**
+- 📫 How to reach me **yaksh.core@gmail.com**
 
 <img src="https://pacman.abozanona.me/?yaksh-devani=yaksh-devani" />
 
