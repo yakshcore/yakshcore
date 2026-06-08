@@ -1,3 +1,6 @@
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uyskgtmoqgqmc6k4x4wt6x26hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" width="30" />, I'm Yaksh Devani</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
