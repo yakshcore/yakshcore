@@ -22,5 +22,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,typescript,bootstrap,mongodb,expressjs,nodejs,reactjs,redux,vite,nextjs,vercel,threejs,render,gatsby,netlify,tailwindcss,babel,gsap,nestjs,jest,graphql,prisma,d3js,chartjs,figma,framer,postman,redis,firebase,firebasestudio,github,githubpages,gitpod,gitlab,git,docker,kubernetes,amazonwebservices,googlecloud,socketio,fastapi,androidstudio,eslint,heroui,huggingface,kaggle,kafka,stripe,lucide,materialdesign,materialui,motion,n8n,neo4j,prettier,postcss,redhat,yaml"/></p>
 
+<p align="left">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpbWtrNzVhMzE1dXRyOW52bTlzYTRpZGs5dHIwdGpvNXlvbDE1YyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" 
+    alt="One Piece GIF" 
+    width="220"
+  />
+</p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yaksh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yaksh" /></a></p><br><br>
+
