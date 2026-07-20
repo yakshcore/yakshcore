@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://yakshdevani.vercel.app/](https://yakshdevani.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yakshcore.vercel.app/](https://yakshcore.vercel.app/)
 
 - 📝 Read my articles on [https://yakshdevani.framer.website/writing](https://yakshdevani.framer.website/writing)
 
